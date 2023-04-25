@@ -32,7 +32,7 @@
 <h3 align="left">Cotact:</h3>
   
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuri_paulo.s?isghid=MTIzZWQxMDU=)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuripaulossantos@gmail.com)<br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://instagram.com/yuripaulossantos@gmail.com)<br>
 
   <div> 
 
