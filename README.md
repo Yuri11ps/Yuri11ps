@@ -31,8 +31,8 @@
 <br>  
 <h3 align="left">Cotact:</h3>
   
-<a href="https://www.instagram.com/yuri_paulo.s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://instagram.com/yuripaulossantos@gmail.com)<br>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuri_paulo.s?igshid=MTIzZWQxMDU=)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuripaulossantos@gmail.com)<br>
 
   <div> 
 
